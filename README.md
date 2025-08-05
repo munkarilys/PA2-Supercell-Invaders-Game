@@ -19,3 +19,17 @@ Don't forget that you must also fill out an evaluation form in Moodle to conside
 
 Partner 1: (802-23-0661) (Yeudiel A. Estela Acevedo) (yeudiel.estela@upr.edu)
 Partner 2: (802-23-1051) (Karilys A. Muñiz Ramos) (karilys.muniz@upr.edu)
+
+Any project that doesn't compile will receive a 0.
+
+If a partner has no commits in the repositories, they'll will receive a 0.
+
+## Student Notes
+If you have any notes to add for your TA about the project specs or creative additions, you may do so in this section of the README:
+
+Custom projectiles for new boss (that means a new constructer that implemented images)
+Custom images for the new enemy and boss
+instead of making the enemies spawn infinitely, there is a cap of 6 and all of them can spawn simultaniously
+shield is implemented uniquely 
+custom lives sprite
+custom boss music (from touhou)
